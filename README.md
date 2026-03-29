@@ -1,5 +1,7 @@
 # 🏗️ fathom-mcp - Simplifying File Search with Ease
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/getwaroo-fathom-mcp)
+
 ## 🏁 Introduction
 
 fathom-mcp is an MCP server designed for local file knowledge. It bridges file systems and large language models (LLMs) using powerful tools like ugrep and poppler-utils. With fathom-mcp, you can easily search through PDFs and codebases, all in a secure, read-only environment. This application provides full-text search, fuzzy matching, and hierarchical context access, making your document searches straightforward and efficient.
